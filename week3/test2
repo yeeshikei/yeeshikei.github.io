@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<style>
+    dix {
+        background-color: #D5E7B5;
+    }
+</style>
+
+<body>
+    .london {
+    background-color: #f9da4e;
+    }
+
+    .oslo {
+    background-color: #55a35a;
+    }
+    </style>
+</body>
+
+
+    <body>
+
+        <div class="london spacing">
+            <h1>London</h1>
+            <p>London is the capital city of England and the United Kingdom.</p>
+            <p>London is known for its history, culture, and landmarks such as the Big Ben and the London Eye.</p>
+            <p>The yellow background color of this section represents the iconic red double-decker buses that are a
+                common
+                sight in London.</p>
+        </div>
+
+        <div class="oslo spacing">
+            <h2>Oslo</h2>
+            <p>Oslo is the capital city of Norway.</p>
+            <p>Oslo is known for its green spaces and museums.</p>
+        </div>
+
+    </body>
+
+</html>

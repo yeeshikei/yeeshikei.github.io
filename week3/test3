@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<head>
+    <html>
+
+    <style>
+        .container {
+            background-color: #accd73;
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            align-items: center;
+            height: 100px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div>Item 1</div>
+        <div>Item 2</div>
+        <div>Item 3</div>
+        <div>Item 4</div>
+
+    </div>
+
+</body>
+
+</html>
